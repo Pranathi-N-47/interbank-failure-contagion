@@ -1,0 +1,2 @@
+number_of_banks,number_of_edges,seed,power_law_exponent,attachment_edges,customer_loan_recovery_rate,total_interbank_exposure,source_paper
+200,1118,42,2.5,3,0.5,1525.8237353204147,Krause and Giansante (2012)
